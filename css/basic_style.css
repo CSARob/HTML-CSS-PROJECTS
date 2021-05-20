@@ -45,7 +45,7 @@ h1  {
 }
 
 /*---------------------------------------------
-    INDIVISUALLY SELECT A SQUARE IN THE ARRAY
+    INDIVIDUALLY SELECT A SQUARE IN THE ARRAY
 -----------------------------------------------*/
 .squares:nth-child(1) {
     background: #4240ff;
@@ -103,7 +103,7 @@ h1  {
 @keyframes race {
     0%, 100% {
         transform: translateY(0px);
-        background-image: url("../images/icoms/icon.png");
+        background-image: url("../images/icons/icon.png");
     }
     50% {
         transform: translateY(330px);
