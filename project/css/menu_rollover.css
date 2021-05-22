@@ -50,7 +50,7 @@ body {
     opacity: 1;
     /* while hovered drop down menu appears
     this also avoid block level bug*/
-    visibility: visible;
+    visibility: visibile;
 }
 
 .submenu {
