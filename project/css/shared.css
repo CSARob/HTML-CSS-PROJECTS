@@ -100,7 +100,7 @@ section {
 .wrap {
     height: 100%;
     width: 100%;
-    /* ensures images dont render
+    /* ensures images don't render
     outside of their container*/
     overflow: hidden;
     top: 0;
@@ -291,7 +291,7 @@ section {
 .submit input[type="submit"]:hover {
     color:#000;
     background-color: #8d8e8f;
-    box-shadow: inset 1px 2px 15px 0 rbga(0,0,0,0.5);
+    box-shadow: inset 1px 2px 15px 0 rgba(0,0,0,0.5);
 }
 /*===================================================
 FOOTER STYLES
@@ -313,7 +313,7 @@ FOOTER STYLES
     }
 }
 
-@media all and (max-width:381px) and (min-widht:200px) {
+@media all and (max-width:381px) and (min-width:200px) {
     .head-main {
         font-size: 24px;
     }
