@@ -1,5 +1,6 @@
-# HTML-CSS-PROJECTS
-<h7> HTML-CSS-PROJECTS<h7>
+
+<h7> HTML-CSS-PROJECTS<h7><dl>
    
   <dt>Project description:</dt>
   <dd>In this folder you will find all of my HTML and CSS projects that I have done throughout my training!</dd>
+   </dl>
